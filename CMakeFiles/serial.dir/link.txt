@@ -1,0 +1,1 @@
+/usr/bin/c++    -lpthread CMakeFiles/serial.dir/serial.cpp.o  -o serial 

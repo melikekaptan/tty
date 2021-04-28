@@ -1,0 +1,3 @@
+/home/debian/Downloads/asio/CMakeFiles/rebuild_cache.dir
+/home/debian/Downloads/asio/CMakeFiles/serial.dir
+/home/debian/Downloads/asio/CMakeFiles/edit_cache.dir
